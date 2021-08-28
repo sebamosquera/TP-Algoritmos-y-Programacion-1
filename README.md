@@ -6,7 +6,14 @@ Implementación del juego 'Peggle' en C.
 
 ## Demo
 
-Insertar gif o link a demo
+Demostracion del nivel 1
+
+https://user-images.githubusercontent.com/67401008/131231062-61207344-e90b-49d1-92c1-45ea90ea355a.mp4
+
+Demostracion del nivel 5
+
+https://user-images.githubusercontent.com/67401008/131231241-48b4f078-0b14-41bc-b4a5-7df6199d9c5e.mp4
+
   
 ## Screenshots
 
