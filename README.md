@@ -10,7 +10,7 @@ Insertar gif o link a demo
   
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/67401008/131229641-04363b91-afba-4887-a39c-4f4d1e223352.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/67401008/131229641-04363b91-afba-4887-a39c-4f4d1e223352.png" width="300" height="300">
   
 ## Ejecución Local para Linux
 
