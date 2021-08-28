@@ -14,6 +14,14 @@ Insertar gif o link a demo
   <img src="https://user-images.githubusercontent.com/67401008/131229641-04363b91-afba-4887-a39c-4f4d1e223352.png" width="500" height="380">
   <img src="https://user-images.githubusercontent.com/67401008/131229725-c5ed4656-e458-4ede-a6ee-9fe58ca9d6e2.png" width="500" height="380">
 </div>
+<div display:"flex">
+  <img src="https://user-images.githubusercontent.com/67401008/131230067-7f70a205-2da6-4a9d-ab64-e5ca265b631b.png" width="500" height="380">
+  <img src="https://user-images.githubusercontent.com/67401008/131230064-35160615-97bf-421d-85f3-ad9f1a2e262f.png" width="500" height="380">
+</div>
+<div display:"flex">
+  <img src="https://user-images.githubusercontent.com/67401008/131230074-530b9adc-3ebe-43b2-9c1f-fe421af28935.png" width="500" height="380">
+  <img src="https://user-images.githubusercontent.com/67401008/131230077-cd8786e3-d243-4360-ac91-2da28e9d0365.png" width="500" height="380">
+</div>
 
 ## Ejecución Local para Linux
 
